@@ -1,5 +1,5 @@
 <?php
- //12191662_ Andrias
+ //12191662_Andrias Ari Ardiyanto
  
 $ikanku = array("Teri","Lele","Bawal","Tuna");
 	echo "ikan $ikanku[0] sering dijumpai di nasi kucing angkringan dan saya konsumsi pas tanggal tua.
